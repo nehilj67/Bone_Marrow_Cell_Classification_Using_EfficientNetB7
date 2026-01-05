@@ -26,7 +26,6 @@ The project uses **EfficientNetB7**, a state-of-the-art CNN known for its compou
 - Preprocessing steps include resizing, normalization, and augmentation (rotation, flipping, zooming)
 
 
-> **Note:** Dataset is not included in this repository due to size and licensing constraints.
 
 
 ## Methodology
